@@ -44,4 +44,4 @@ Now run the App using this :
  npx react-native run-ios
 ```
 ## Demo
-
+https://github.com/Nikks-13/Just_Snaxx_App/assets/90950696/c7c228b4-969e-4d85-8c35-a880ec5ef1dc
