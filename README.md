@@ -10,7 +10,7 @@ A dynamic food app using React Native, offering users a seamless experience in s
 Clone the project
 
 ```bash
-  git clone https://github.com/Nikks-13/Weather-App
+  git clone https://github.com/Nikks-13/Just_Snaxx_App
 ```
 Go to the project directory Open it and Install dependencies
 
@@ -45,4 +45,3 @@ Now run the App using this :
 ```
 ## Demo
 
-https://github.com/Nikks-13/Weather-App/assets/90950696/c40ce6da-0467-473f-b816-d4179244e0be
