@@ -1,5 +1,10 @@
 
 ## Just Snaxx Food Ordering APP using React-Native
+
+![App Screenshot](https://raw.githubusercontent.com/Nikks-13/Just_Snaxx_App/main/screenshot/demo.png)
+
+## Desc 
+A dynamic food app using React Native, offering users a seamless experience in selecting and customizing multiple food and drink items to add to their carts. The app features a user-friendly interface that facilitates easy navigation and selection, allowing users to effortlessly manage their orders. In addition to the cart functionality, the app enables users to curate a personalized favorites list for quick access to preferred items. Post-checkout, users can conveniently track their order history, enhancing the overall user experience.
 ## Run My project Locally
 
 Clone the project
