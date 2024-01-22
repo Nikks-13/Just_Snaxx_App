@@ -11,7 +11,7 @@ const BGicon: React.FC<BGiconProps> = ({BGColor}) => {
         source={require('../assets/icons/plus.png')}
         style={{
           tintColor: 'black',
-          width: 30,
+          width: 30, 
           height: 30,
           resizeMode: 'contain',
         }}></Image>
